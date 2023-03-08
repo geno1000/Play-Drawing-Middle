@@ -15,7 +15,7 @@ Play-Drawing-Illustration
 자연에 자연적으로 만들어진 물질을 의미
 > #암석, 나무토막, 덩쿨, 숲풀
 
-### 02. [인공물(Artifact)](Object-Artifact/README.md)
+### [02. 인공물(Artifact)](Object-Artifact/README.md)
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 > #표지판(Sign), #포털(Portal)
 
