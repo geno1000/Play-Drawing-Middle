@@ -9,7 +9,7 @@ Play-Drawing-Middle
 활용 : ,Illustration, UI, Emoji, Assets, Animation
 ```
 
-# :card_index_dividers: 에셋(Assets)
+# :card_index_dividers: 리소스(Resource)
 
 ## 공간물(Object)
 
