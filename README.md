@@ -15,7 +15,7 @@ Play-Drawing-Middle
 
 ## :page_facing_up:	공간(Object)
 
-### [01. 자연(Natural)](Object-Natural/README.md)
+### [01. 자연(Natural)](Illustration-Object-Natural/README.md)
 자연에 자연적으로 만들어진 물질을 의미
 > #암석, 나무토막, 덩쿨, 숲풀
 
@@ -31,7 +31,7 @@ Play-Drawing-Middle
 자연에 자연적으로 만들어진 물질을 의미
 > #암석, 나무토막, 덩쿨, 숲풀
 
-### [02. 인공물(Artifact)](Object-Artifact/README.md)
+### [02. 인공물(Artifact)](Resource-Object-Artifact/README.md)
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 > #표지판(Sign), #포털(Portal)
 
@@ -51,7 +51,7 @@ Play-Drawing-Middle
 ## :page_facing_up: 케릭터(Character)
 사람, 동물과 같이 실존이거나 실존과 유사한 생명체를 의미
 
-### [01. 전신(Full)](/Character-Full/README.md)
+### [01. 전신(Full)](/Resource-Character-Full/README.md)
 남/여, 2~8등신 등 다양한 상황에 따른 전신 케릭터를 의미
 > #파츠, #2~8등신, #장비, #효과(라이트닝, 레인보우, 블러드, 스케터)
 
