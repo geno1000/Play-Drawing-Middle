@@ -7,4 +7,4 @@ Object > Artifact
 
 ## :card_index_dividers: 표지판 (Sign)
 - Middle2D-001 / 나무방향과 돌 : [작업내용(이미지)](/Object-Artifact/Middle2D-Sign-001.md) / [다운로드]()
-- Middle3D-001 / 돌과 이정표 : [작업내용(이미지)](/Object-Artifact/Middle3D-Sign-001.md) / [다운로드(준비중)]()
+- Middle3D-001 / 돌과 이정표 : [작업내용(이미지)](/Object-Artifact/Middle3D-Sign-001.md)
