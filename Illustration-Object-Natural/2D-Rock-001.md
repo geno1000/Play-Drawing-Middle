@@ -1,4 +1,4 @@
-[돌아가기](/Object-Natural/README.md)
+[돌아가기](/Illustration-Space-Natural/README.md)
 
 ```
 - 주제이름 : 암석문과 나무
