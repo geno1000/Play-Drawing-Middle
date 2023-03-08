@@ -23,7 +23,7 @@ Play-Drawing-Middle
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 > #표지판(Sign), #포털(Portal)
 
-# :card_index_dividers: 리소스(Resource)
+# :file_cabinet: 리소스(Resource)
 
 ## :scroll:	공간물(Object)
 
