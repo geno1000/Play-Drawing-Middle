@@ -1,8 +1,8 @@
 [메인으로 돌아가기](/README.md)
 
-# 캐릭터 > 전신 
+# 리소스 > 캐릭터 > 전신 
 ```
-Charater > Full
+Resource > Charater > Full
 ```
 
 ## :card_index_dividers: 1.7 등신 (17)
