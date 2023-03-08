@@ -13,7 +13,7 @@ Play-Drawing-Middle
 
 # :card_index_dividers: 리소스(Resource)
 
-## 공간물(Object)
+## :page_facing_up:	공간물(Object)
 
 ### 01. 자연물(Natural)
 자연에 자연적으로 만들어진 물질을 의미
