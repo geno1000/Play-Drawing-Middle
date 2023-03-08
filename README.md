@@ -23,7 +23,7 @@ Play-Drawing-Middle
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 > #표지판(Sign), #포털(Portal)
 
-# :card_index_dividers: 애셋(Asset)
+# :page_facing_up: 에셋(Asset)
 ### 01. 아이템(Item)
 제품의 애셋 중 버튼으로 사용할 수 있는 것을 의미
 > #케릭터아이템, #종이&책, #마법아이템, #무기아이템
@@ -36,7 +36,7 @@ Play-Drawing-Middle
 제품의 애셋 중 버튼으로 사용할 수 있는 것을 의미
 > #기본카드, #특수카드
 
-# :card_index_dividers: 케릭터(Character)
+# :page_facing_up: 케릭터(Character)
 사람, 동물과 같이 실존이거나 실존과 유사한 생명체를 의미
 
 ### [01. 전신(Full)](/Character-Full/README.md)
@@ -51,10 +51,10 @@ S/M/L, 심플/리얼 등 다양한 상황에 따른 동물을 의미
 S/M/L, 심플/리얼 등 다양한 상황에 따른 몬스터를 의미
 > #오크, #골램, #엘프
 
-# :card_index_dividers: 구도(Composition)
+# :page_facing_up: 구도(Composition)
 케릭터의 포즈나 결과물의 최종 구도를 말한다
 > #날씨, #그림자구도, #대결구도
 
-# :card_index_dividers: 환경(Environment)
+# :page_facing_up: 환경(Environment)
 모델링을 이용한 배경작업이 포함된 배경을 말한다
 - 작성중
