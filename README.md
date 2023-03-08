@@ -13,9 +13,9 @@ Play-Drawing-Middle
 
 # :card_index_dividers: 일러스트레이션(Illustration)
 
-## :page_facing_up:	공간(Object)
+## :page_facing_up: 공간(Space)
 
-### [01. 자연(Natural)](Illustration-Object-Natural/README.md)
+### [01. 자연(Natural)](Illustration-Space-Natural/README.md)
 자연에 자연적으로 만들어진 물질을 의미
 > #암석, 나무토막, 덩쿨, 숲풀
 
