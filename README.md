@@ -1,12 +1,12 @@
 Play-Drawing-Middle
 ===
-일러스트 드로잉 훈련장
+중간밀도의 드로잉 훈련장
 
 ```text
 도구
-- 2D : PhotoShop > Spine
-- 3D : NomadSculpt > Blender
-활용 : UI, Game, Animation
+- 2D : CliStudio(일러스트), PhotoShop(에셋) > Spine(애니메이션)
+- 3D : NomadSculpt(일러스트) > Blender(애니메이션)
+활용 : ,Illustration, UI, Emoji, Assets, Animation
 ```
 
 # :card_index_dividers: 공간물(Object)
