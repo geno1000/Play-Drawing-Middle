@@ -6,6 +6,6 @@ Resource > Object > Artifact
 ```
 
 ## :card_index_dividers: 표지판 (Sign)
-- [완료] 2D-001 / 나무방향과 돌 : [작업내용(이미지)](/Resource-Object-Artifact/2D-Sign-001.md) / [다운로드](https://gofile.me/6XDCl/qqF64Hpz1)
-- [진행] 3D-001 / 돌과 이정표 : [작업내용(이미지)](/Resource-Object-Artifact/3D-Sign-001.md)
+- [완료] 2D-001 / 나무방향과 돌 : [작업내용(이미지)](/Resource-Object-Artifact/2D-Sign-001.md) / 작업내용(애니메이션) / [다운로드](https://gofile.me/6XDCl/qqF64Hpz1)
+- [진행] 3D-001 / 돌과 이정표 : [작업내용(이미지)](/Resource-Object-Artifact/3D-Sign-001.md) / 작업내용(애니메이션) / 다운로드
 
