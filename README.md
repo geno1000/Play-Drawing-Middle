@@ -35,7 +35,7 @@ Play-Drawing-Illustration
 # :card_index_dividers: 케릭터(Character)
 사람, 동물과 같이 실존이거나 실존과 유사한 생명체를 의미
 
-### [01. 전신(Full)](Character-Full/README.md)
+### [01. 전신(Full)](/Character-Full/README.md)
 남/여, 2~8등신 등 다양한 상황에 따른 전신 케릭터를 의미
 > #파츠, #2~8등신, #장비, #효과(라이트닝, 레인보우, 블러드, 스케터)
 
