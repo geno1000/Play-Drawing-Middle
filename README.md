@@ -9,7 +9,9 @@ Play-Drawing-Middle
 활용 : ,Illustration, UI, Emoji, Assets, Animation
 ```
 
-# :card_index_dividers: 공간물(Object)
+# 에셋(Assets)
+
+## :card_index_dividers: 공간물(Object)
 
 ### 01. 자연물(Natural)
 자연에 자연적으로 만들어진 물질을 의미
