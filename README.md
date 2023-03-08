@@ -11,6 +11,18 @@ Play-Drawing-Middle
 활용 : ,Illustration, UI, Emoji, Assets, Animation
 ```
 
+# :card_index_dividers: 일러스트레이션(Illustration)
+
+## :page_facing_up:	공간(Object)
+
+### [01. 자연(Natural)](Object-Natural/README.md)
+자연에 자연적으로 만들어진 물질을 의미
+> #암석, 나무토막, 덩쿨, 숲풀
+
+### 02. 인공(Artifact)
+자연에서 사람이 만들어놓은 물체나 건물등을 의미
+> #표지판(Sign), #포털(Portal)
+
 # :card_index_dividers: 리소스(Resource)
 
 ## :page_facing_up:	공간물(Object)
