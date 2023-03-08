@@ -1,17 +1,19 @@
 [돌아가기](/Resource-Object-Artifact/README.md)
 
-# 001. 표지판 : 돌과 이정표
-
 ```
 - 주제이름 : 돌과 이정표
-- 작업시간 : 2시간
 - 훈련타입 : Copy
 - 훈련참조 : https://www.pinterest.co.kr/pin/883620389368162604
 - 훈련분류 : 개인훈련
 ```
 
-## 2022-12-05
+# 이미지
 ![image](https://user-images.githubusercontent.com/77244047/205515661-b6002245-196b-400e-9882-226c5fe57052.png)
+
+```
+작업날짜 : 2022-12-05 ~ 
+작업시간 : 2시간
+```
 
 작업목록
 - 자료조사(완료)
