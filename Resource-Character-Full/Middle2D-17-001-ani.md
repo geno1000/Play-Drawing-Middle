@@ -1,4 +1,4 @@
-[돌아가기](/Character-Full/README.md)
+[돌아가기](/Resource-Character-Full/README.md)
 
 # 001. 수염남자와 도끼
 
