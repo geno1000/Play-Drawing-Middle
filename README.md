@@ -4,12 +4,10 @@ Play-Drawing-Middle
 
 ```text
 도구
-일러스트
-- 2D : CliStudio(일러스트) > Spine(애니메이션)
-- 3D : NomadSculpt(일러스트) > Blender(애니메이션)
-리소스
-- 2D : PhotoShop(리소스) > Spine(애니메이션)
-- 3D : NomadSculpt(일러스트) > Blender(애니메이션)
+- 일러스트 2D : CliStudio(일러스트) > Spine(애니메이션)
+- 일러스트 3D : NomadSculpt(일러스트) > Blender(애니메이션)
+- 리소스 2D : PhotoShop(리소스) > Spine(애니메이션)
+- 리소스 3D : NomadSculpt(일러스트) > Blender(애니메이션)
 활용 : ,Illustration, UI, Emoji, Assets, Animation
 ```
 
