@@ -11,7 +11,7 @@ Play-Drawing-Middle
 활용 : ,Illustration, UI, Emoji, Assets, Animation
 ```
 
-# :card_index_dividers: 일러스트레이션(Illustration)
+# :file_cabinet: 일러스트레이션(Illustration)
 
 ## :scroll: 공간(Space)
 
